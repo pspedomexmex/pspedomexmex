@@ -2,7 +2,7 @@
 
 <p align="center">
 🛡️ Estudiante de <strong>Ciberseguridad</strong> | 💻 Automatización en Linux | 🕵️ OSINT | ⚙️ Pentesting Ético<br>
-🚛 Operador en <strong>Transportes VEPO</strong> | 📚 Fundador de <strong>byteando.blog</strong>
+🚛 Operador en <strong>Transportes VEPO</strong> | 
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 - 🎓 Aprendiendo y compartiendo herramientas para proteger la infraestructura digital
 - ⚒️ Me gusta crear scripts Bash y Python para automatizar tareas de administración y ciberseguridad
-- 📌 Proyecto personal: [byteando.blog](https://byteando.blog) – espacio para hacking ético, OSINT y activismo digital
+
 
 ---
 
@@ -35,7 +35,7 @@
 ### 📫 Cómo contactarme
 
 - 🌐 [LinkedIn](https://linkedin.com/in/edgar-climaco-3b9942185)
-- 📬 `edgarcm@protonmail.com`
+  
 
 ---
 
